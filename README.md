@@ -6,8 +6,6 @@
 
 
 
-
-
 Data 저장소
 MySQL 
 Aurora MySQL
