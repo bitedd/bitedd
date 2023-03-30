@@ -1,6 +1,9 @@
 
-
+개발관련 스택
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/songwonchang/gaebal)
+
+서비스운영관련 스택
+
 
 
 
