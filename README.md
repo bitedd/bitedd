@@ -1,7 +1,5 @@
 <br><br><br>
-<div style="text-align:center">
-  <span>기술블로그:newspaper: https://db-diary.tistory.com/<span>
-</div>
+  <p align="center">기술블로그:newspaper: https://db-diary.tistory.com/</p>
 <br><br><br>
 
 ---
