@@ -1,6 +1,10 @@
-<br><br><br>
-  <p align="center">기술블로그:newspaper: https://db-diary.tistory.com/</p>
-<br><br><br>
+
+>소프트웨어 개발이란 완벽을 추구하는게 아니라, 옷을 수선하듯이 한땀한땀 바느질로 꿰메는 것.
+
+기술블로그:newspaper: https://db-diary.tistory.com/
+
+
+
 
 ---
 # 기술스택
