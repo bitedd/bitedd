@@ -1,2 +1,2 @@
-블로그:building_construction:
+블로그 is constructing :building_construction:
 
